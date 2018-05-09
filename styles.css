@@ -1,0 +1,50 @@
+/* add your CSS here */
+#facts {
+	list-style-type: none;
+}
+
+span {
+	font-weight: bold;
+}
+
+#interesting-fact {
+	font-style: italic;
+  	text-align: left;
+}
+
+#container, .animal-info, img {
+	border: 2px solid #3B436E;
+}
+
+#container {
+	background-color: #32C1BC; 	
+  	box-shadow: 5px 5px 5px lightgrey;
+  	padding: 10px;
+  	width: 340px;
+}
+
+h1 {
+	color: #191970;
+  	font-family: : Verdana, sans-serif;
+  	font-size: 30px;
+  	font-weight: bold;
+  	margin: 2px;
+  	padding: 20px;
+  	text-align: center;
+}
+
+img {
+	width: 300px;
+  	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.animal-info {
+	padding: 5px;
+  	margin: 20px;
+  	background-color: #B8ACFF;
+}
+
+#summary {
+	text-align: center;
+}
